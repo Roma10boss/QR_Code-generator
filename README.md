@@ -16,7 +16,8 @@ Use the cd command to navigate to the project folder.
 
 Next, we need to install some libraries that do the magic:
 
-In the terminal or command prompt, type this and hit Enter: pip install qrcode opencv-python-headless
+In the terminal or command prompt, type this and hit Enter: 
+pip install qrcode opencv-python-headless
 
 # Run the Program:
 
